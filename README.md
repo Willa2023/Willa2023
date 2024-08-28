@@ -1,6 +1,9 @@
 ## About me
 
 Hi，I‘m Willa.
-I recently graduated in Software Development and looking for a developer job. I’m a fast learner, eager to use my skills in real-world projects, and always keen to learn more. I’m excited to contribute to and grow with your team.
+I recently graduated with a Master’s in Software Development in June 2024 and am currently seeking a developer position. I am a fast learner, enthusiastic about applying my skills to real-world projects, and always eager to expand my knowledge. I am excited about the opportunity to contribute to and grow with your team.
 
 ### Skills
+
+Programming: Java, C#, .NET, JavaScript, React, TypeScript, Node.js, SQL
+Cloud: Azure App Service, Azure Storage, Azure SQL
