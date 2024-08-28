@@ -5,8 +5,8 @@ I recently graduated with a Master’s in Software Development in June 2024 and 
 
 ## Skills
 
-### Programming
+#### Programming
 Java, C#, .NET, HTML, CSS, JavaScript, React, TypeScript, Node.js, SQL
 
-### Cloud
+#### Cloud
 Azure App Service, Azure Storage, Azure SQL
